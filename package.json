@@ -1,0 +1,24 @@
+{
+  "name": "unijas-task-helper",
+  "version": "0.1.0",
+  "description": "Set of helper-functions used in our gulp-tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unijas/unijas-task-helper.git"
+  },
+  "keywords": [
+    "unijas",
+    "gulp",
+    "tasks"
+  ],
+  "author": "Siggi Duenkel <chaosprinz76@gmail.com> (https://siggiduenkel.wordpress.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unijas/unijas-task-helper/issues"
+  },
+  "homepage": "https://github.com/unijas/unijas-task-helper#readme"
+}
